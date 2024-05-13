@@ -393,9 +393,8 @@ color: #222529;
 }
 
  .glide img {
-    /* max-width: 500px; */
-   max-width:540px;
-    height: 100%;
+     width:500px;
+    height: 500px;
     gap: 0px;
     opacity: 0px;
  }
